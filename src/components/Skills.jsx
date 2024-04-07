@@ -44,16 +44,16 @@ const Skills = () => {
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Node} alt="HTML icon" />
-                  <p className='my-4'>NODE JS</p>
+                  <p className='my-4'>BOOTSTRAP</p>
               </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+              {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Php} alt="HTML icon" />
                   <p className='my-4'>PHP</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Mysql} alt="HTML icon" />
                   <p className='my-4'>MySQL</p>
-              </div>
+              </div> */}
           </div>
       </div>
     </div>
