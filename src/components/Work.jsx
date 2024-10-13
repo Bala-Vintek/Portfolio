@@ -1,9 +1,9 @@
 import React from 'react';
-import project from '../assets/project.JPG';
+import project from '../assets/Xakal.png';
 import project1 from '../assets/project1.JPG';
-import project2 from '../assets/project2.JPG';
-import project3 from '../assets/project3.JPG';
-import project4 from '../assets/project4.JPG';
+import project2 from '../assets/agraga.png';
+import project3 from '../assets/Digital.png';
+import project4 from '../assets/Codeup.png';
 import project5 from '../assets/project5.JPG';
 
 //import realEstate from '../assets/realestate.jpg';
@@ -30,10 +30,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Counter App -React JS Application
+                Xakal App -React JS Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https:\\thexakal.com' target='_blank' rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -46,11 +46,10 @@ const Work = () => {
               </div>
             </div>
           </div>
-          <div
+          {/* <div
             style={{ backgroundImage: `url(${project1})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
-            {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Food recipe App -React JS Application
@@ -68,7 +67,7 @@ const Work = () => {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${project2})` }}
@@ -77,10 +76,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Fetch Data from API showing in Table -React JS Application
+                Agraga Website
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https:\\agraga.com' target='_blank' rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -100,10 +99,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Fetch Data from API showing in Dropdown -React JS Application
+                Digital Marketting Website 
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://tecezes.netlify.app/' target='_blank' rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -124,10 +123,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Signup and Login Form -PHP Application
+                Codeup Website
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://codeupglobal.com/' target='_blank' rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -140,11 +139,10 @@ const Work = () => {
               </div>
             </div>
           </div>
-          <div
+          {/* <div
             style={{ backgroundImage: `url(${project5})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
-            {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Validation Form -PHP Application
@@ -162,7 +160,7 @@ const Work = () => {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
