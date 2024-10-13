@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b64e128c.css",
-    "main.js": "/Portfolio/static/js/main.7788394a.js",
+    "main.js": "/Portfolio/static/js/main.c06536fd.js",
     "static/js/787.0361ebd7.chunk.js": "/Portfolio/static/js/787.0361ebd7.chunk.js",
+    "static/media/Xakal.png": "/Portfolio/static/media/Xakal.ee1d1a1204113aabb97f.png",
+    "static/media/Digital.png": "/Portfolio/static/media/Digital.0737c65c42cad096ad05.png",
+    "static/media/Codeup.png": "/Portfolio/static/media/Codeup.f0c21da75f7cad089aee.png",
     "static/media/Mysql.png": "/Portfolio/static/media/Mysql.a10a9cc1f068264397c2.png",
-    "static/media/project2.JPG": "/Portfolio/static/media/project2.dcdbda546d690ee5b7ab.JPG",
     "static/media/project1.JPG": "/Portfolio/static/media/project1.7499c826194f87402f58.JPG",
-    "static/media/project4.JPG": "/Portfolio/static/media/project4.b102e9c758ac2bd1e201.JPG",
-    "static/media/project3.JPG": "/Portfolio/static/media/project3.18e1116e5e5dfa052366.JPG",
-    "static/media/project.JPG": "/Portfolio/static/media/project.97941690a0ef6d2eb16f.JPG",
+    "static/media/agraga.png": "/Portfolio/static/media/agraga.26c357afc1f131d46ccc.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/project5.JPG": "/Portfolio/static/media/project5.477a75a00ac8b3c8b91a.JPG",
     "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -19,11 +19,11 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.b64e128c.css.map": "/Portfolio/static/css/main.b64e128c.css.map",
-    "main.7788394a.js.map": "/Portfolio/static/js/main.7788394a.js.map",
+    "main.c06536fd.js.map": "/Portfolio/static/js/main.c06536fd.js.map",
     "787.0361ebd7.chunk.js.map": "/Portfolio/static/js/787.0361ebd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b64e128c.css",
-    "static/js/main.7788394a.js"
+    "static/js/main.c06536fd.js"
   ]
 }
