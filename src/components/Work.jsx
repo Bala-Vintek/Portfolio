@@ -6,8 +6,6 @@ import project3 from '../assets/Digital.png';
 import project4 from '../assets/Codeup.png';
 import project5 from '../assets/project5.JPG';
 
-//import realEstate from '../assets/realestate.jpg';
-
 const Work = () => {
   return (
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
